@@ -20,8 +20,8 @@ export default async function handler(req, res) {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "ci": "SEU_CLIENT_ID_AQUI", // substitua pelo seu client_id real
-        "cs": "SEU_CLIENT_SECRET_AQUI", // substitua pelo seu client_secret real
+        "ci": "ci_mlnqt7n4x2d78iw", // substitua pelo seu client_id real
+        "cs": "cs_qlfkr3cr9zhxv0yqp23h9k76s", // substitua pelo seu client_secret real
       },
       body: JSON.stringify({
         amount: Number(amount),
