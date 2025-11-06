@@ -1,0 +1,10 @@
+{
+  "name": "misticpay-server",
+  "version": "1.0.0",
+  "description": "Servidor Cash-in MisticPay (Vercel API)",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
